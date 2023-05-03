@@ -8,5 +8,5 @@ import "./YourToken.sol";
 
 // @TODO: Implement the Vendor smart contract
 contract Vendor {
-
+  constructor() {}
 }
